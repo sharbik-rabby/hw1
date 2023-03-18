@@ -1,4 +1,6 @@
-
+body{
+    background-color: rgb(151, 151, 151);
+}
 .box {
 	margin: 10px 0;
 	min-height: 200px;
